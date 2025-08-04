@@ -1,0 +1,1 @@
+# reccource_katalog_service
